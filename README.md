@@ -4,10 +4,10 @@
 ## 🖼 Screenshots
 
 ###  URL Shortener Form
-![Form Screenshot](./screenshots/home.png)
+![Form Screenshot](./Afformed_Screenshots/ShortenerURLForm.png)
 
 ###  Statistics Page
-![Stats Screenshot](./screenshots/stats.png)
+![Stats Screenshot](./Afformed_Screenshots/ShortenerURLStats.png)
 
 ### Result
 ![Not Found Screenshot](./screenshots/result.png)
