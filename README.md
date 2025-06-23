@@ -9,8 +9,7 @@
 ###  Statistics Page
 ![Stats Screenshot](./url-shortener/Affordmed_Screenshots/ShortenerURLStats.png)
 
-### Result
-![Not Found Screenshot](./screenshots/result.png)
+
 
 
 
