@@ -4,7 +4,7 @@
 ## 🖼 Screenshots
 
 ###  URL Shortener Form
-![Form Screenshot](./Afformed_Screenshots/ShortenerURLForm.png)
+![Form Screenshot](/Afformed_Screenshots/ShortenerURLForm.png)
 
 ###  Statistics Page
 ![Stats Screenshot](./Afformed_Screenshots/ShortenerURLStats.png)
