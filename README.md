@@ -7,7 +7,7 @@
 ![Form Screenshot](./url-shortener/Affordmed_Screenshots/ShortenerURLForm.png)
 
 ###  Statistics Page
-![Stats Screenshot](./url-shortner/Affordmed_Screenshots/ShortenerURLStats.png)
+![Stats Screenshot](./url-shortener/Affordmed_Screenshots/ShortenerURLStats.png)
 
 ### Result
 ![Not Found Screenshot](./screenshots/result.png)
